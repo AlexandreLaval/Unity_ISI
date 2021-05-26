@@ -47,10 +47,6 @@ public class UIController : MonoBehaviour
             this.pauseMenu.SetActive(false);
         }
     }
-    void hideMenu()
-    {
-        
-    }
 
 
     void Update()
