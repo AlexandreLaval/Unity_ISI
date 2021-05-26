@@ -21,5 +21,3 @@ Fleche du Haut / Fleche du bas pour ce déplacer
 Barre d'espace pour tirer
 
 Bon jeu !
-
-PS : Si jamais le code se trouve dans le dossier projet
